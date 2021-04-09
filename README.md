@@ -1,4 +1,5 @@
 # MaxPhisher
+https://img.shields.io/badge/<Popularity>-<31%>-<brightgreen>
 MaxPhisher is a phishing tool available for Termux users.
 
 ## [+] Installation and Usage
