@@ -1,7 +1,4 @@
 # MaxPhisher
-<a href="https://coveralls.io/github/badges/shields">
-        <img src="https://img.shields.io/coveralls/github/badges/shields"
-            alt="coverage"></a>
 MaxPhisher is a phishing tool available for Termux users.
 
 ## [+] Installation and Usage
