@@ -9,10 +9,6 @@
 <a href="https://github.com/HackWeiser360"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 </p>
 
-<a href="https://packagephobia.com/result?p=MaxPhisher">
-		<img src="https://packagephobia.com/badge?p=MaxPhisher" alt="install size">
-	</a>
-
 MaxPhisher is a phishing tool available for Termux users.
 
 ## [+] Installation and Usage
