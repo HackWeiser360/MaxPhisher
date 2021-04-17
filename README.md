@@ -14,18 +14,23 @@ MaxPhisher is a phishing tool available for Termux users.
 ## [+] Installation and Usage
 * $ apt update
 * $ apt upgrade
+* $ pkg install git
 * $ git clone https://github.com/HackWeiser360/MaxPhisher
 * $ cd MaxPhisher
 * $ bash MaxPhisher.sh
 
-## Author: MådMâx
-You can reach the author on:
+## Connect to us today
+<div align="center">
+<a href="https://github.com/HackWeiser360" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/503_madmax" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/madmax4708/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 
-[Instagram](https://instagram.com/madmax4708)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=503_madmax)](https://github.com/HackWeiser360/github-readme-twitter)
 
-[Twitter](https://twitter.com/503_madmax)
-
-===================================
-### Follow on [Instagram](https://instagram.com/madmax4708/) for hacking pictures and my live videos.
-### [Check out](https://twitter.com/503_madmax) my latest Tweets!!
-### [Subscribe](https://www.youtube.com/channel/UC02OkpTZkxRZCEzFjawf6mA) to my Youtube Channel.
+### Stargazers
+[![Stargazers repo roster for @HackWeiser360/MaxPhisher](https://reporoster.com/stars/HackWeiser360/MaxPhisher)](https://github.com/HackWeiser360/MaxPhisher)
