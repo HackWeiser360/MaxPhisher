@@ -1,5 +1,5 @@
 #!/system/bin/sh
-# MaxPhisher v1.0
+# MaxPhisher v1.1
 
 
 trap 'printf "\n";stop;exit 1' 2
@@ -163,15 +163,20 @@ fi
 
 banner() {
 
-toilet -f smbraille -F border:gay MaxPhisher
-echo -e "\e[1;36m                                                                         v1.0 \e[0m"
+echo -e "\e[1;31m                                                                                                                                                                              
+ _       _               _____  _     _     _
+| \     / |             |  __ \| |   (_)   | |
+|  \   /  | _____ __  __| |__) | |__  _ ___| |__   ___ _ __
+| . \_/ . |/____ |\ \/ /|  ___/|  _ \| / __|  _ \ / _ \  __|
+| |\   /| |/ __  | >  < | |    | | | | \__ \ | | |  __/ |
+|_| \_/ |_|\_____|/_/\_\|_|v1.1|_| |_|_|___/_| |_|\___|_|                                                                                                                                                                                       \e[0m"
 printf "\n"
-printf "\e[1;32m       .:.:.\e[0m\e[1;95m MaxPhisher was coded by:  MådMâx \e[0m\e[1;32m.:.:.\e[0m\n"
-printf "\e[1;32m       .:.:.\e[0m\e[1;95m Follow on Instagram:madmax4708 \e[0m\e[1;32m.:.:.\e[0m\n"
-printf "\e[1;32m       .:.:.\e[0m\e[1;95m Follow on Twitter: 503_madmax \e[0m\e[1;32m.:.:.\e[0m\n"
+printf "\e[1;32m       -->\e[0m\e[1;95m MaxPhisher was coded by:  MådMâx \e[0m\e[1;32m<--\e[0m\n"
+printf "\e[1;32m        -->\e[0m\e[1;95m Follow on Instagram:madmax4708 \e[0m\e[1;32m<--\e[0m\n"
+printf "\e[1;32m         -->\e[0m\e[1;95m Follow on Twitter:503_madmax \e[0m\e[1;32m<--\e[0m\n"
 printf "\n"
-printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
-printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by MaxPhisher. Use MaxPhisher for educational purposes only!! ::\e[0m\n"
+printf "  \e[101m\e[1;77m!! Disclaimer: Developers assume no liability and are not
+responsible for any misuse or damage caused by MaxPhisher. Use MaxPhisher for educational purposes only!! \e[0m\n"
 printf "\n"
 }
 
