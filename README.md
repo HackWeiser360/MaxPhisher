@@ -10,7 +10,7 @@
 </p>
 
 ![Downloads](https://img.shields.io/badge/downloads-1.1k%2Fmonth-brightgreen)
-
+![codacy](https://img.shields.io/badge/codacy-C-green)
 MaxPhisher is a phishing tool available for Termux users.
 
 ## [+] Installation and Usage
