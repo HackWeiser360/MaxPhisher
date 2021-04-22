@@ -8,6 +8,7 @@
 <a href="https://github.com/HackWeiser360"><img title="Watching" src="https://img.shields.io/github/watchers/HackWeiser360/MaxPhisher?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/HackWeiser360"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
 </p>
+
 ![Downloads](https://img.shields.io/badge/downloads-1.1k%2Fmonth-brightgreen)
 
 MaxPhisher is a phishing tool available for Termux users.
@@ -33,5 +34,5 @@ MaxPhisher is a phishing tool available for Termux users.
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=503_madmax)](https://github.com/HackWeiser360/github-readme-twitter)
 
-### Stargazers
+### Stargazers.
 [![Stargazers repo roster for @HackWeiser360/MaxPhisher](https://reporoster.com/stars/HackWeiser360/MaxPhisher)](https://github.com/HackWeiser360/MaxPhisher)
